@@ -48,7 +48,7 @@ mutation createUser($user: UserInput!) {
 variables:
 {
   "user":{ 
-    "email": "rayed4",
+    "email": "contact@rayedbajwa.com",
     "username": "Rayed4",
     "firstName":"banwa",
     "lastName": "M",
