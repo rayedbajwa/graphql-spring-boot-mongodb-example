@@ -60,7 +60,7 @@ variables:
 ```
 * Fetch
 ```
-queries {
+query {
   users {
   email,
     username,
